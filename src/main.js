@@ -5,6 +5,6 @@ console.log(3*3);
 console.log("Hello gigi");
 let text1 = "java";
 let text2 = "script";
-console.log(text1 + space + text2);
+console.log(text1 + text2);
 
 // thats all? 
